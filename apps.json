@@ -1,0 +1,13 @@
+{
+    "name": "PageScan",
+    "identifier": "com.leoturlock.pagescan",
+    "sourceURL": "https://raw.githubusercontent.com/LeoTurlock/PageScan-IPAs/main/apps.json",
+    "iconURL": "https://raw.githubusercontent.com/LeoTurlock/PageScan-IPAs/main/icon.png",
+    "website": "https://github.com/LeoTurlock/PageScan-IPAs",
+    "subtitle": "Scan and flatten book pages",
+    "META": {
+        "repoName": "PageScan",
+        "repoIcon": "https://raw.githubusercontent.com/LeoTurlock/PageScan-IPAs/main/icon.png"
+    },
+    "apps": []
+}
