@@ -9,5 +9,22 @@
         "repoName": "PageScan",
         "repoIcon": "https://raw.githubusercontent.com/LeoTurlock/PageScan-IPAs/main/icon.png"
     },
-    "apps": []
+    "apps": [
+        {
+            "name": "PageScan",
+            "type": 1,
+            "bundleID": "com.leoturlock.flatscan.L6J5KTKYLQ",
+            "bundleIdentifier": "com.leoturlock.flatscan.L6J5KTKYLQ",
+            "version": "1.1",
+            "versionDate": "2026-10-22",
+            "fullDate": "20261022210603",
+            "size": 3157211,
+            "down": "https://github.com/LeoTurlock/PageScan-IPAs/releases/download/v1.1-20261022.2105/PageScan-1.1-20261022.2105.ipa",
+            "downloadURL": "https://github.com/LeoTurlock/PageScan-IPAs/releases/download/v1.1-20261022.2105/PageScan-1.1-20261022.2105.ipa",
+            "developerName": "Leo Turlock",
+            "localizedDescription": "Shared libraries: join a friend's library with an invite link (Library › Shared), browse it, add and remove albums and pages, scan straight into it, and copy your own albums up or shared ones down. Pages travel as .pagescan files (page, original photo and outline). New scans keep their detected outline, and every edge in the outline editor now bends through two points instead of one.",
+            "icon": "https://raw.githubusercontent.com/LeoTurlock/PageScan-IPAs/main/icon.png",
+            "iconURL": "https://raw.githubusercontent.com/LeoTurlock/PageScan-IPAs/main/icon.png"
+        }
+    ]
 }
